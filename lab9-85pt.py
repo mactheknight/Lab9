@@ -15,4 +15,4 @@ for x in myList(100):
         
 
 # This should print [102,101,103,105]
-print myList
+print myList (0,4,1)
